@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02
+
 fun main() {
     val result = startsWith("ABC")
     print(result)

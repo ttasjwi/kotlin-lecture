@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02
+
 fun main() {
     val number: Long? = null
     val result: Long = calculate(number)

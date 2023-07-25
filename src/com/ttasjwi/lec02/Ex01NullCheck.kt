@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02
+
 import java.lang.IllegalArgumentException
 
 

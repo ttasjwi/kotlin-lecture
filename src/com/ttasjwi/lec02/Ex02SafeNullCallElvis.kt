@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02
+
 /**
  SafeNullCall : ?변수의 메서드를 호출하면, 변수 평가값이 null이면 결과값도 null이다.
 

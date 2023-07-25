@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02;
+
 import org.jetbrains.annotations.NotNull;
 
 public class Person {

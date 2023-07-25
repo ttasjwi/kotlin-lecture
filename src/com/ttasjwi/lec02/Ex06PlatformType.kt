@@ -1,3 +1,5 @@
+package com.ttasjwi.lec02
+
 fun main() {
     val person: Person = Person("땃쥐")
     startsWithA(person.name)
